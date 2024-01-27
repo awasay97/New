@@ -1,0 +1,39 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>AED STORE</title>
+    </head>
+
+    <body>
+         <h3>Cable</h3>
+       <img src="cable.jpg" alt="cable" width="200px" height="200px">
+         <h3>Glasses</h3>
+       <img src="glasses/glasses.jpg" alt="glasses" width="200px" height="200px">
+         <h3>Watches</h3>
+         <img src="watches/watch1.jpg" alt="watch" width="200px" height="200px">
+ <!--Table styling-->       
+ <style>
+    table, th, td {
+        border: 1px solid black;
+        border-collapse: collapse;
+    }
+ </style>
+ <!--Table listing-->
+       <table>
+          <tr>
+            <th>Product</th>
+            <th>Price</th>
+          </tr>
+        <tr>
+             <td>Retro Square glasses</td>
+             <td>rs350</td>
+        </tr>
+             <td>Watches</td>
+             <td>rs699</td>
+        <tr>
+
+        </tr>
+       </table>
+
+    </body>
+</html>
